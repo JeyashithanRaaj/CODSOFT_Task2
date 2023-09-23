@@ -49,7 +49,7 @@ git clone https://github.com/JeyashithanRaaj/CODSOFT_Task2.git
 2. Navigate to the project directory.
 
 ```bash
-cd simple-calculator-app
+cd Calc
 ```
 
 3. Run the application.
